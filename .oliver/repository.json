@@ -2,7 +2,7 @@
   "version": "1.0",
   "projectId": "472b6f94-702f-4b12-b86f-2bdf132e2633",
   "createdAt": "2026-02-11T04:51:42.118Z",
-  "updatedAt": "2026-02-11T06:36:19.618Z",
+  "updatedAt": "2026-02-11T06:42:15.509Z",
   "files": [
     {
       "id": "68971f3a-6219-4ea3-b677-fd20c7b4aab2",
@@ -66,8 +66,21 @@
       "updatedAt": "2026-02-11T06:36:19.618Z",
       "tags": [],
       "generatedByAgent": true
+    },
+    {
+      "id": "oliver-write-2f5376946d64063d9d00c92c1ebfbe2ae3d7cadd",
+      "name": "regulatory-compliance-workflow-analysis.md",
+      "path": "repository/workflow-analysis/regulatory-compliance-workflow-analysis.md",
+      "folder": "workflow-analysis",
+      "mimeType": "text/markdown",
+      "size": 18709,
+      "sha": "2f5376946d64063d9d00c92c1ebfbe2ae3d7cadd",
+      "createdAt": "2026-02-11T06:42:15.509Z",
+      "updatedAt": "2026-02-11T06:42:15.509Z",
+      "tags": [],
+      "generatedByAgent": true
     }
   ],
   "externalLinks": [],
-  "storageUsed": 569954
+  "storageUsed": 588663
 }
