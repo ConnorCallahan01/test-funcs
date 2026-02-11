@@ -1,2 +1,12 @@
 # test-funcs
-Oliver project repository for 472b6f94-702f-4b12-b86f-2bdf132e2633
+
+Oliver project repository.
+
+## Folder Structure
+
+- `repository/workflow-analysis/`
+- `repository/business-case/`
+- `repository/ai-opportunity-assessment/`
+- `repository/functional-prototype/`
+- `repository/technical-specifications/`
+- `repository/meeting-notes/`
