@@ -2,7 +2,7 @@
   "version": "1.0",
   "projectId": "472b6f94-702f-4b12-b86f-2bdf132e2633",
   "createdAt": "2026-02-11T04:51:42.118Z",
-  "updatedAt": "2026-02-11T06:34:56.845Z",
+  "updatedAt": "2026-02-11T06:36:19.618Z",
   "files": [
     {
       "id": "68971f3a-6219-4ea3-b677-fd20c7b4aab2",
@@ -53,8 +53,21 @@
       "updatedAt": "2026-02-11T06:34:56.845Z",
       "tags": [],
       "generatedByAgent": true
+    },
+    {
+      "id": "oliver-write-7613578c0cbdc5977cfc4c71706794fd3fafd697",
+      "name": "compliance-manager-journey-v3.md",
+      "path": "repository/technical-specifications/compliance-manager-journey-v3.md",
+      "folder": "technical-specifications",
+      "mimeType": "text/markdown",
+      "size": 9828,
+      "sha": "7613578c0cbdc5977cfc4c71706794fd3fafd697",
+      "createdAt": "2026-02-11T06:36:19.618Z",
+      "updatedAt": "2026-02-11T06:36:19.618Z",
+      "tags": [],
+      "generatedByAgent": true
     }
   ],
   "externalLinks": [],
-  "storageUsed": 560126
+  "storageUsed": 569954
 }
