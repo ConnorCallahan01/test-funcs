@@ -2,7 +2,7 @@
   "version": "1.0",
   "projectId": "472b6f94-702f-4b12-b86f-2bdf132e2633",
   "createdAt": "2026-02-11T04:51:42.118Z",
-  "updatedAt": "2026-02-11T06:20:53.182Z",
+  "updatedAt": "2026-02-11T06:34:56.845Z",
   "files": [
     {
       "id": "68971f3a-6219-4ea3-b677-fd20c7b4aab2",
@@ -40,8 +40,21 @@
       "updatedAt": "2026-02-11T06:20:53.182Z",
       "tags": [],
       "generatedByAgent": true
+    },
+    {
+      "id": "oliver-write-c66fc3e97758ce90d795c0b1d95e34759df5c1be",
+      "name": "compliance-manager-daily-workflow.md",
+      "path": "repository/technical-specifications/compliance-manager-daily-workflow.md",
+      "folder": "technical-specifications",
+      "mimeType": "text/markdown",
+      "size": 9828,
+      "sha": "c66fc3e97758ce90d795c0b1d95e34759df5c1be",
+      "createdAt": "2026-02-11T06:34:56.845Z",
+      "updatedAt": "2026-02-11T06:34:56.845Z",
+      "tags": [],
+      "generatedByAgent": true
     }
   ],
   "externalLinks": [],
-  "storageUsed": 550298
+  "storageUsed": 560126
 }
